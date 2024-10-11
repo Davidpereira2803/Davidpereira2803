@@ -20,7 +20,7 @@ I'm a Computer Science student from Luxembourg with a passion for software devel
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Java, JavaScript, Haskell, R
-- **Frameworks**: Django, Flask, React
+- **Frameworks**: FastAPI 
 - **Tools**: Git, Docker, OpenCV
 
 ## 🚀 Projects
