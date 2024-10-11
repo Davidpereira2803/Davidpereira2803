@@ -24,11 +24,10 @@ I'm a Computer Science student from Luxembourg with a passion for software devel
 - **Tools**: Git, Docker, OpenCV
 
 ## 🚀 Projects
-### [Facial Emotion Detection](https://github.com/username/facial-emotion-detection)
-A Python project using OpenCV to detect facial emotions in real-time.
+### [Facial Emotion Detection Drone Control](https://github.com/username/facial-emotion-detection)
+A Python project using OpenCV and an emotion detection module, to build an interactive drone that can react to different emotions and face expressions.
 
-### [Tello Drone Control](https://github.com/username/tello-drone-control)
-Control a DJI Tello drone using finger movements detected through a webcam.
+
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/david-pereira-67ab6a278/)
