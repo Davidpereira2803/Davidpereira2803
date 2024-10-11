@@ -31,6 +31,6 @@ A Python project using OpenCV to detect facial emotions in real-time.
 Control a DJI Tello drone using finger movements detected through a webcam.
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/david-pereira-67ab6a278/))
 - [Personal Website](https://yourwebsite.com)
 
