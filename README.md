@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 I'm a Computer Science student from Luxembourg with a passion for software development and robotics.
 
 ## 🛠️ Technologies & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact)
 
 - **Languages**: Python, Java, JavaScript, Haskell, R
 - **Frameworks**: FastAPI 
