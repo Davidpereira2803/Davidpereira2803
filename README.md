@@ -21,6 +21,8 @@ I'm a Computer Science student from Luxembourg with a passion for software devel
 ## 🛠️ Technologies & Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact)
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 - **Languages**: Python, Java, JavaScript, Haskell, R
 - **Frameworks**: FastAPI 
 - **Tools**: Git, Docker, OpenCV
