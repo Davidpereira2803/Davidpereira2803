@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Davidpereira2803/Davidpereira2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+# Hi there, I'm David! 👋
 
-# Projects
+## 👨‍💻 About Me
+I'm a Computer Science student from Luxembourg with a passion for software development and robotics.
 
-# Technologies
+## 🛠️ Technologies & Tools
+- **Languages**: Python, Java, JavaScript, Haskell, R
+- **Frameworks**: Django, Flask, React
+- **Tools**: Git, Docker, OpenCV
 
-# Contact Information
+## 🚀 Projects
+### [Facial Emotion Detection](https://github.com/username/facial-emotion-detection)
+A Python project using OpenCV to detect facial emotions in real-time.
+
+### [Tello Drone Control](https://github.com/username/tello-drone-control)
+Control a DJI Tello drone using finger movements detected through a webcam.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Personal Website](https://yourwebsite.com)
+
