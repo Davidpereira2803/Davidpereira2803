@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 I'm a Computer Science student from Luxembourg with a passion for software development and robotics.
 
+## 🚀 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidpereira2803&show_icons=true&theme=radical)
+
+## 🌟 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact&theme=radical)
+
+
 ## 🛠️ Technologies & Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact)
 - **Languages**: Python, Java, JavaScript, Haskell, R
