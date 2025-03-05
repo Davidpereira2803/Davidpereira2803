@@ -33,6 +33,8 @@ A **web app for students and teachers** to store, track, and manage exam grades,
 ## 🚀 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidpereira2803&show_icons=true&theme=dark)
+
+## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact&theme=dark)
 
 ---
