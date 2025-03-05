@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 I'm a **Computer Science student** from Luxembourg with a passion for **software development, robotics, and embedded systems**. I enjoy working on **interactive and autonomous systems**, leveraging **AI, IoT, and real-time processing**. 
 
-🚀 Currently expanding my knowledge in **cybersecurity** and **formal methods**.
+🚀 Currently expanding my knowledge in **cybersecurity** for my Master.
 
 ---
 
