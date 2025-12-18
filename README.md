@@ -15,11 +15,14 @@ I'm a **Computer Science student** from Luxembourg with a passion for creating *
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 - **Robotics:** ROS2, OpenCV, TensorFlow/Keras
-- **Web/Mobile:** React Native, FastAPI, Firebase
+- **Web/Mobile:** React Native, Expo, FastAPI, Firebase
 - **Computer Vision:** OpenCV, MediaPipe, ArUco Detection
 - **IoT:** ESP32, MPU9250, IMU Processing
 
@@ -39,6 +42,9 @@ A **ROS2 wrapper for DJI Tello** featuring real-time **facial emotion recognitio
 ### 🔹 [TEMO 2.0 - Mixed Reality Drone Gaming Platform](https://github.com/Davidpereira2803/tello_mixed_reality_handcontrol)
 An **advanced multi-modal drone control system** supporting **gesture control, emotion recognition, and AR gaming**. Features include ESP32/MPU9250 IMU control, PS4 controller support, smartphone IMU integration, and an interactive "Hit All Targets" game with ArUco marker detection. Complete with GUI interface showing live camera feed and sensor data.
 
+### 🔹 [Imposter Hunt - Social Deduction Mobile Game](https://github.com/Davidpereira2803/imposter-hunt)
+A **fast-paced pass-and-play social deduction game** built with **React Native and Expo**. Features AI-powered custom topic generation, special roles system (Jester & Sheriff), strategic voting mechanics, and multi-round gameplay. Implements Google UMP SDK for privacy-first ad consent, Zustand for state management, and rewarded ads for extended features. Supports multiple languages with a polished UI and haptic feedback.
+
 ### 🔹 [LetzGrade - Academic Progress Tracker](https://github.com/Davidpereira2803/letzgrade-mobile)
 A **comprehensive mobile grade management app** built with **React Native and Firebase**. Features semester-based organization, weighted grade calculations, interactive progress visualizations with pie charts, and motivational feedback systems. Supports multiple school years with dark/light themes and secure user authentication.
 
@@ -52,7 +58,7 @@ A **comprehensive mobile grade management app** built with **React Native and Fi
 
 ## 📫 Connect With Me
 - **LinkedIn**: [David Pereira](https://www.linkedin.com/in/david-pereira-67ab6a278/)  
-- **Personal Website**: [davidpereira2803.github.io](https://davidpereira2803.github.io/)
+- **Personal Website**: [pearlabs.dev](https://davidpereira2803.github.io/)
 
 ---
 
@@ -60,6 +66,7 @@ A **comprehensive mobile grade management app** built with **React Native and Fi
 - **Advanced Robotics:** Exploring autonomous navigation and multi-agent systems
 - **Computer Vision:** Developing real-time emotion and gesture recognition systems  
 - **Mobile Innovation:** Building intuitive apps that solve real-world problems
+- **AI Integration:** Implementing intelligent features in mobile applications
 - **Mixed Reality:** Integrating AR/VR with physical robotics systems
 
 ---
