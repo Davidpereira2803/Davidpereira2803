@@ -42,6 +42,9 @@ A **ROS2 wrapper for DJI Tello** featuring real-time **facial emotion recognitio
 ### 🔹 [TEMO 2.0 - Mixed Reality Drone Gaming Platform](https://github.com/Davidpereira2803/tello_mixed_reality_handcontrol)
 An **advanced multi-modal drone control system** supporting **gesture control, emotion recognition, and AR gaming**. Features include ESP32/MPU9250 IMU control, PS4 controller support, smartphone IMU integration, and an interactive "Hit All Targets" game with ArUco marker detection. Complete with GUI interface showing live camera feed and sensor data.
 
+### 🔹 [ROSmonitor - Mobile ROS Robot Monitor/Control](https://github.com/Davidpereira2803/rosground)
+A **React Native mobile application** for monitoring and controlling ROS robots via **rosbridge WebSocket** and live **MJPEG video streaming**. Features real-time topic subscription, live telemetry visualization, and a modern dark-themed interface. Built with **Expo** for cross-platform deployment on iOS and Android, enabling remote robot control from your smartphone.
+
 ### 🔹 [Imposter Hunt - Social Deduction Mobile Game](https://github.com/Davidpereira2803/imposter-hunt)
 A **fast-paced pass-and-play social deduction game** built with **React Native and Expo**. Features AI-powered custom topic generation, special roles system (Jester & Sheriff), strategic voting mechanics, and multi-round gameplay. Implements Google UMP SDK for privacy-first ad consent, Zustand for state management, and rewarded ads for extended features. Supports multiple languages with a polished UI and haptic feedback.
 
@@ -57,7 +60,7 @@ A **comprehensive mobile grade management app** built with **React Native and Fi
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [David Pereira](https://www.linkedin.com/in/david-pereira-67ab6a278/)  
+- **LinkedIn**: [David Pereira](https://www.linkedin.com/in/davidpereira2803/)  
 - **Personal Website**: [pearlabs.dev](https://davidpereira2803.github.io/)
 
 ---
