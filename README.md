@@ -53,11 +53,6 @@ A **comprehensive mobile grade management app** built with **React Native and Fi
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davidpereira2803&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpereira2803&layout=compact&theme=dark&hide=css,html)
-
----
 
 ## 📫 Connect With Me
 - **LinkedIn**: [David Pereira](https://www.linkedin.com/in/davidpereira2803/)  
