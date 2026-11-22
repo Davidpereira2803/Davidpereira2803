@@ -1,72 +1,48 @@
-<!--
-**Davidpereira2803/Davidpereira2803** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+# David Pereira
 
-# Hi there, I'm David! 👋
+Computer Science student based in Luxembourg, building software that connects AI, robotics, and everyday tools.
 
-## 👨‍💻 About Me
-I'm a **Computer Science student** from Luxembourg with a passion for creating **intelligent interactive systems**. My expertise spans **robotics, computer vision, and mobile development**, with a focus on building innovative solutions that bridge **AI, IoT, and human-computer interaction**. I love developing projects that combine cutting-edge technology with practical applications. 
+My projects range from mobile apps and community websites to drone interfaces, computer vision experiments, and local AI systems. I enjoy working across software and hardware, from designing an interface to integrating sensors and running services on my own server.
 
----
+[Portfolio](https://pearlabs.dev/) | [LinkedIn](https://www.linkedin.com/in/davidpereira2803/)
 
-## 🛠️ Technologies & Tools
+## Selected projects
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Mobile and web applications
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **[The Munkeler](https://github.com/Davidpereira2803/imposter-hunt)** - A social deduction game played on one shared phone, with special roles, multilingual support, and AI-generated custom topics. Built with React Native, Expo, and Zustand. Previously called Imposter Hunt.
+- **[ROS Monitor](https://github.com/Davidpereira2803/rosground)** - A mobile interface for connecting to ROS systems through rosbridge, subscribing to topics, and inspecting live telemetry. Built with React Native, Expo, and WebSockets.
+- **[Alma da Beira Alta](https://github.com/Davidpereira2803/alma-da-beira-alta)** - A multilingual website for a Portuguese cultural association in Luxembourg, with event management, member registration, and an administration panel for content and finances. Built with React and Firebase.
+- **[LetzGrade](https://github.com/Davidpereira2803/letzgrade-mobile)** - A student grade tracker with weighted calculations, academic year organization, and progress charts. Built with React Native and Firebase.
 
-- **Robotics:** ROS2, OpenCV, TensorFlow/Keras
-- **Web/Mobile:** React Native, Expo, FastAPI, Firebase
-- **Computer Vision:** OpenCV, MediaPipe, ArUco Detection
-- **IoT:** ESP32, MPU9250, IMU Processing
+### AI, robotics, and optimization
 
-### **Tools & Platforms**
-- **Development:** Git, Docker, VS Code
-- **Hardware:** ESP32, Arduino, DJI Tello, PS4 Controllers
-- **Cloud & Storage:** Firebase, TrueNAS
-- **Specialties:** Embedded Systems, Computer Vision, Human-Computer Interaction, Mixed Reality  
+- **[Project Noesis](https://github.com/Davidpereira2803/project_noesis)** - An experimental framework combining camera perception, a structured world model, memory, and local LLM reasoning. Separate perception and cognition threads keep vision processing independent of model responses. Built with Python, OpenCV, YOLOv8, and Ollama; physical robot integration is future work.
+- **[TEMO / Mixed Reality Drone Control](https://github.com/Davidpereira2803/tello_mixed_reality_handcontrol)** - DJI Tello control through an ESP32/MPU9250 inclinometer, a PS4 controller, or smartphone IMU data, alongside facial emotion recognition and an ArUco target game. Extends earlier work on the [TEMO ROS 2 driver](https://github.com/Davidpereira2803/tello_ros_driver_TEMO), a fork of the SNT-ARG Tello driver.
+- **[FireDrift](https://github.com/Davidpereira2803/firedrift)** - A deep learning coursework project exploring transfer learning from aerial fire imagery to wildfire spread direction prediction, with evaluation against baseline predictors. Built with Python and PyTorch.
+- **[NSGA-II + COLM](https://github.com/Davidpereira2803/nsgaccolm)** - A collaborative university project combining GPU-accelerated evolutionary optimization with a compact transformer to generate candidates for multi-objective flow-shop scheduling.
 
----
+## Hardware and self-hosting
 
-## 🚀 Featured Projects
+I repurposed an old laptop into a home server, building a custom enclosure with 3D-printed components. It runs Ubuntu Server and MicroK8s for containerized workloads.
 
-### 🔹 [TEMO - Emotion-Reactive Drone Control](https://github.com/Davidpereira2803/tello_ros_driver_TEMO)
-A **ROS2 wrapper for DJI Tello** featuring real-time **facial emotion recognition** that triggers dynamic drone movements. Built with **Python, OpenCV, and TensorFlow**, this system detects 6 emotions and executes corresponding flight patterns, bridging computer vision with autonomous robotics.
+[Build notes and photos](Projects/HomeLab/Description.md)
 
-### 🔹 [TEMO 2.0 - Mixed Reality Drone Gaming Platform](https://github.com/Davidpereira2803/tello_mixed_reality_handcontrol)
-An **advanced multi-modal drone control system** supporting **gesture control, emotion recognition, and AR gaming**. Features include ESP32/MPU9250 IMU control, PS4 controller support, smartphone IMU integration, and an interactive "Hit All Targets" game with ArUco marker detection. Complete with GUI interface showing live camera feed and sensor data.
+## Technologies I work with
 
-### 🔹 [ROSmonitor - Mobile ROS Robot Monitor/Control](https://github.com/Davidpereira2803/rosground)
-A **React Native mobile application** for monitoring and controlling ROS robots via **rosbridge WebSocket** and live **MJPEG video streaming**. Features real-time topic subscription, live telemetry visualization, and a modern dark-themed interface. Built with **Expo** for cross-platform deployment on iOS and Android, enabling remote robot control from your smartphone.
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript |
+| Web and mobile | React, Next.js, React Native, Expo, Firebase, Tailwind CSS |
+| AI and computer vision | PyTorch, TensorFlow/Keras, OpenCV, YOLOv8, Ollama |
+| Robotics and hardware | ROS 2, rosbridge, ESP32, MPU9250, DJI Tello |
+| Infrastructure | Git, Docker, Ubuntu Server, MicroK8s |
 
-### 🔹 [Imposter Hunt - Social Deduction Mobile Game](https://github.com/Davidpereira2803/imposter-hunt)
-A **fast-paced pass-and-play social deduction game** built with **React Native and Expo**. Features AI-powered custom topic generation, special roles system (Jester & Sheriff), strategic voting mechanics, and multi-round gameplay. Implements Google UMP SDK for privacy-first ad consent, Zustand for state management, and rewarded ads for extended features. Supports multiple languages with a polished UI and haptic feedback.
+## GitHub activity
 
-### 🔹 [LetzGrade - Academic Progress Tracker](https://github.com/Davidpereira2803/letzgrade-mobile)
-A **comprehensive mobile grade management app** built with **React Native and Firebase**. Features semester-based organization, weighted grade calculations, interactive progress visualizations with pie charts, and motivational feedback systems. Supports multiple school years with dark/light themes and secure user authentication.
+![GitHub activity: stars, commits, pull requests, and issues](profile/stats.svg)
+![Most used languages by repository code size](profile/top-langs.svg)
 
----
+Language percentages reflect code size in public repositories, not time spent or proficiency.
 
-
-## 📫 Connect With Me
-- **LinkedIn**: [David Pereira](https://www.linkedin.com/in/davidpereira2803/)  
-- **Personal Website**: [pearlabs.dev](https://davidpereira2803.github.io/)
-
----
-
-## 🎯 Current Focus
-- **Advanced Robotics:** Exploring autonomous navigation and multi-agent systems
-- **Computer Vision:** Developing real-time emotion and gesture recognition systems  
-- **Mobile Innovation:** Building intuitive apps that solve real-world problems
-- **AI Integration:** Implementing intelligent features in mobile applications
-- **Mixed Reality:** Integrating AR/VR with physical robotics systems
-
----
-
-🔥 **Always open to exciting projects and collaborations!** Let's build something amazing together!
+I'm interested in collaborating on practical AI tools, interactive robotics, and useful web or mobile applications.
